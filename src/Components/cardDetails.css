@@ -1,0 +1,20 @@
+.card-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+    margin: 2rem;
+}
+.card{
+    padding: 1rem;
+}
+.button-container{
+    display: flex;
+    justify-content: space-around;
+    gap: 2px;
+}
+.btn-1{
+    width:30%}
+
+.btn-2{
+    width:70%
+}
